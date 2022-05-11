@@ -1,0 +1,44 @@
+            body
+            {
+                background-image: url("fundo.jpeg");
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            p
+            {
+                color: red; 
+                font-family: Arial; 
+                font-size: 16pt;
+                border-style: solid;
+                border-width: 2px;
+            }
+            table
+            {
+                background-color: blue;
+                margin-left: 100px;
+                margin-top: 50px;
+                width: 500px;
+            }
+            tr
+            {
+                height: 150px;
+            }
+            td
+            {
+                width: 100px;
+                text-align: center;
+                border-style: solid;
+                border-width: 2px;
+                border-radius: 50%;
+                background-color: aqua;
+                font-family: Arial; 
+                font-size: 16pt;
+            }
+            .vermelho
+            {
+                background-color: red;
+            }
+            #azul
+            {
+                color: blue;
+            }
